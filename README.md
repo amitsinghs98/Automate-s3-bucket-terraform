@@ -9,7 +9,8 @@ This repository demonstrates how to use Terraform to automate the creation of an
 - **AWS Credentials Configured**: Run `aws configure` to set up access.
 - **Basic Knowledge of Terraform**: Familiarity with HCL syntax.
 
-## Before moving further check out this blog for implementation: https://amitsinghs.hashnode.dev/automating-s3-bucket-deployment-with-terraform
+## Before moving further check out this blog for implementation: 
+-- https://amitsinghs.hashnode.dev/automating-s3-bucket-deployment-with-terraform
 
 ## Features
 
