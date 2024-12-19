@@ -1,9 +1,5 @@
 # Automate-s3-bucket-terraform
 # Automate AWS S3 Bucket Creation and File Upload with Terraform
-Here’s a concise and precise **README.md** file for your GitHub repository:  
-
-```markdown
-# Automate AWS S3 Bucket Creation and File Upload with Terraform
 
 This repository demonstrates how to use Terraform to automate the creation of an AWS S3 bucket and upload files to it. The process also integrates a remote backend for managing the Terraform state.
 
@@ -25,7 +21,7 @@ This repository demonstrates how to use Terraform to automate the creation of an
 ```bash
 git clone <repository-url>
 cd <repository-directory>
-```
+
 
 ### 2. Update Variables
 - Edit the bucket and file paths in the `main.tf` file if necessary.
